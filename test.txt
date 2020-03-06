@@ -1,1 +1,2 @@
 Hello World!!!
+We will learn how to add , commit and delete commands.
